@@ -1,0 +1,23 @@
+{
+  "name": "code_test",
+  "version": "1.0.0",
+  "description": "implementing different code challenges while using jest unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanlu1134/Code_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanlu1134/Code_Test/issues"
+  },
+  "homepage": "https://github.com/evanlu1134/Code_Test#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
